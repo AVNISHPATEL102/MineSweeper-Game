@@ -12,5 +12,6 @@ Coordinate system is notation is like the row column notaion of a matrix.
 
 
 Progress
+-> Made a coordiante system of and displayed in the python.
 
 
