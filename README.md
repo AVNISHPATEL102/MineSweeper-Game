@@ -17,4 +17,6 @@ Progress
 
 -> Able to put up mines in the field which are hiding.
 
+-> Board that will keep count of the scores.
+
 
