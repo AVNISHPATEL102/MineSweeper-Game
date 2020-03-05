@@ -7,3 +7,4 @@ This game is coded in python. And the game is also played such that it is played
 PyCharm is an IDE for python.
 
 Final goal is make this game fully playable with the coordinate system.
+Coordinate system is notation is like the row column notaion of a matrix.
